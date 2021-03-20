@@ -13,7 +13,7 @@
 #include <sys/param.h>
 
 #define ALX_NO_PREFIX
-#include <libalx/alx/robot/ur/ur.h>
+#include <libalx/alx/robot-ur/ur.h>
 #include <libalx/base/errno.h>
 #include <libalx/base/stdlib.h>
 
